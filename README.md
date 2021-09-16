@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kasrayounessi
 - 👀 I’m interested in machine learning and cloud infrastructure.
 - 🌱 I’m currently learning most efficient methods of designing neural networks per given problems.
-- 💞️ I’m looking to collaborate on any project involving design of neural networks, web serving, or anything that can teach me new things.
+- 💞️ I’m looking to collaborate on any full-stack projects involving frontend/backend development
 - 📫 How to reach me; Linkedin: www.linkedin.com/in/kasra-younessi
 
 <!---
